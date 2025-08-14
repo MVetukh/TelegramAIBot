@@ -1,0 +1,10 @@
+lora_out/
+data/
+dataset/
+.venv/
+.idea/
+requirements.txt
+anon.session
+prototype_and_testing.ipynb
+.gitattributes
+.env
